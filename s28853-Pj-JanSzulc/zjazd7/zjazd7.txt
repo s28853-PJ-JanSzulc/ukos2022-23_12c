@@ -1,4 +1,4 @@
-włączenie prawa do uruchomieniA skryptów
+włączenie prawa do uruchomienia skryptów
 
 PS C:\WINDOWS\system32> Set-ExecutionPolicy Bypass
 
@@ -65,7 +65,7 @@ wtedy wyświetlają się przykłady użycia polecenia
 
 
 
-oniższa linia zwróci Tobie wszystkie dostepne w danej chwili moduły.
+poniższa linia zwróci Tobie wszystkie dostepne w danej chwili moduły.
 
 PS C:\WINDOWS\system32> Get-Module -ListAvailable
 
